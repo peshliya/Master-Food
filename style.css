@@ -1,0 +1,348 @@
+.bodyq{
+background-image: url("resource/imagek.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.body2{
+ /* background-color: rgba(225, 225, 246, 0.4); */
+ /* background-color: rgba(191, 227, 255, 0.2); */
+background-color:#e5e5e5;
+ margin: 0px;
+    
+}
+.logo{
+    background-image: url("resourc/NTS_Logos.jpg");
+    height: 100px;
+    background-repeat: no-repeat;
+background-size: contain;
+background-position: center;
+    background-repeat: no-repeat;
+/* margin-left: 650px; */
+/* position: absolute; */
+}
+
+.image{
+    background-image: url("resource/imagek.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.mainimage{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100% ;
+    height: 750px;  
+    background-color: blue;
+    background-image: url("resource/imagek.jpg");
+ 
+}
+.abc{
+    margin-top: 10px;
+    margin-bottom: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100% ;
+    height: 750px;  
+    background-color:transparent;
+
+    position: absolute;
+}
+.orchiico{
+background-image: url("resource/orchiico.png");
+
+}
+.mainimagesmall{
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100% ;
+    height: 400px;  
+    background-color: blue;
+    background-image: url("resource/imagek.jpg");
+
+}
+.tindex{
+    cursor:default;
+    padding-top: 70px;
+    font-size: 70px;
+    color: black;
+    /* font-weight: bold; */
+    font-family: "schooby";
+}
+.tindex :hover {
+    cursor: alias; 
+    color: red;
+    font-weight: bold;
+    transition-duration: 3s;
+    animation-duration: 3s;
+    font-family: "schooby";
+   
+
+}
+.b1{
+    background-color: rgb(110, 115, 120);
+    color: white;
+}
+.t2index{
+    color: white;
+
+}
+.t2index :hover {
+color: greenyellow;
+}
+
+
+@font-face {
+    font-family: "schooby";
+    src: url("resource/font/Gloomy\ Things.otf");
+}
+@font-face{
+    font-family: "all";
+    src: url("resource/font/Quicksand-Medium.ttf");
+}
+*{
+    font-family: "all";
+}
+.bgct{
+    background-color: rgb(2, 78, 2);
+    padding-top: 4px;
+    color: white;
+}
+.signout:hover {
+    font-weight: bold;
+   cursor: pointer;
+   
+}
+.cart-icon{
+    background-image: url("resource/cartico.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.imgc{
+    background-repeat: no-repeat;
+    background-size: cover;
+     
+}
+.h5c{
+    font-size: 100px;
+    color: black;
+    font-family: "schooby";
+    margin-top: -30px;
+  
+  
+}
+.ul{
+    list-style: none;
+}
+.pointer:hover {
+    cursor: pointer;
+
+}
+
+.main-img{
+    height: 360px;
+
+    background-image: url("resource/Screenshot\ 2022-10-28\ 191928.jpg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.product-qty{
+    width: 105px;
+    height: 35px;
+    padding: 10px;
+    
+}
+
+.qty-buttons{
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 30px;
+    border: solid 1px rgb(72,71,71);
+    margin-right:10px ;
+}
+
+.qty-inc,.qty-dec{
+    width: 100%;
+    height: 50%;
+    justify-content: flex-end;
+    cursor: pointer;
+}
+
+.qty-inc{
+    border-top-right-radius: 5px;
+    
+}
+
+.qty-dec{
+    border-bottom-right-radius: 5px;
+}
+.t{
+    background-image: url("resource/Switches2.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.t2{
+    background-image: url("resource/laptop1.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50px;
+}
+.t3{
+    background-image: url("resource/facial\ cleaning\ brush.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 40px;
+}
+.t4{
+    background-image: url("resource/download\ \(1\).jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 40px;
+}
+
+.t5{
+    background-image: url("iphone\ platinum-2.jfif");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 40px;
+    
+}
+
+.bodycustomerregister{
+    width: 100%;
+    background-image: radial-gradient(rgba(195, 195, 253, 0.338),rgba(0, 0, 0, 0.338));
+    background-repeat: no-repeat;
+    
+}
+
+.cutomerregisterinnerpic{
+    background-image: url("resource/imagek.jpg");
+     background-repeat: no-repeat; 
+     background-size: contain;
+}
+
+.historyoforderbody{
+   
+    background-repeat: no-repeat; 
+     background-size: contain;
+}
+
+.bodyinvoice{
+    background-image: url("resource/istockphoto-1150985376-612x612.jpg");
+    /* background-repeat: no-repeat;
+    background-size: contain; */
+}
+.like{
+    background-image: url("resource/codepeng.jpg");
+      background-repeat: no-repeat;
+    background-size: contain;
+}
+.userimgforadmin{
+    background-image: url("resource/user.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 40px;
+    
+}
+.btnimg{
+    background-image: url("resource/images.jpg")
+}
+.indexbackground{
+
+    background-image: url("resource/background_img.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.productregbackimg{
+    background-image: url("resource/delicate-watercolor-illustration-blue-transparent-flowers-buds-leaves-orchid_252097-1280.webp");
+    background-repeat: no-repeat;
+    background-size: contain;
+   
+}
+.signiniimg{
+    background-repeat: no-repeat;
+  
+}
+.alo:hover {
+background-color: white;
+/* cursor: pointer; */
+/* background-color:rgba(90, 200, 198, 0.068); */
+}
+.picforviewProduct{
+    background-image: url("resource/pexels-brigitte-tohm-377903.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.round{
+  border-top-left-radius: 50px;
+  background-image: url("resource/4thcms.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+ 
+}
+.roundq{
+    background-image: url("resource/4thcms.webp");
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
+.possition{
+    position: absolute;
+    margin-top: 60px;
+}
+.paddintopforuserdetails{
+    padding-top: 90px;
+}
+.hidnpic:hover {
+    cursor: pointer;
+}
+.inputh{
+    height: 300px;
+   margin-top: 140px;
+   padding-left: 100px;
+}
+.hidnpic{
+    border-radius: 100%;
+    padding: 3px;
+}
+.mpcolorchange:hover {
+background-color:rgba(191, 227, 255, 0.2);
+}
+.mpcolorchange{
+    background-color:hsl(182, 25%, 50%,0.2);
+    
+}
+.form-select:focus {
+    border-color: #c0c0c0;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgba(108, 110, 113, 0.25);
+  }
+
+  .activeupdate:active{
+    font-weight:bold;
+   
+  }
+  @font-face {
+    font-family: "Honey";
+    src: url("resource/font/HoneyScript-Light.ttf");
+}
+.title1{
+    font-family: "Honey";
+    font-size: 30px;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+.adlog{
+    background-image: url("resource/adminlogin.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
